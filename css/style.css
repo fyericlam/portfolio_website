@@ -1,0 +1,18 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.lite_grey {
+  color: #7d97ad
+}
+
+.dark_grey {
+  color: #2d3c49
+}
+
+.sansserif {
+  font-family: Helvetica, Arial, sans-serif;
+}
